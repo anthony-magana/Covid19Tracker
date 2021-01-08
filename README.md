@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# COVID-19 Tracker
+This project was created with react and uses axios for making HTTP requests to the covid-19 api. It also uses reactcharts for displaying the data in a line chart and bar chart as well as using the material ui framework.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
